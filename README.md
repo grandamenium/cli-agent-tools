@@ -25,7 +25,7 @@ A typical MCP server (like GitHub's) ships 93 tools costing ~55,000 tokens just 
 | **Media** | ffmpeg, imagemagick, blender, yt-dlp |
 | **Communication** | stripe, resend, twilio |
 | **Testing** | playwright, httpie |
-| **Utility** | jq, ripgrep, ngrok, pandoc, gh-copilot |
+| **Utility** | jq, ripgrep, ngrok, pandoc, gh-copilot, opencli |
 
 ## Quick Start
 
