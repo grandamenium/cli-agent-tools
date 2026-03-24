@@ -330,6 +330,17 @@
       "official_url": "https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-in-the-command-line",
       "repo": "https://github.com/github/gh-copilot",
       "verified": true
+    },
+    {
+      "name": "opencli",
+      "directory": "tools/opencli",
+      "description": "Universal CLI hub - turns any website, Electron app, or local tool into a CLI. 50+ adapters, Chrome session reuse, AI-agent ready.",
+      "category": "utility",
+      "install": "npm install -g @jackwener/opencli",
+      "binary": "opencli",
+      "official_url": "https://github.com/jackwener/opencli",
+      "repo": "https://github.com/jackwener/opencli",
+      "verified": true
     }
   ],
   "categories": {
